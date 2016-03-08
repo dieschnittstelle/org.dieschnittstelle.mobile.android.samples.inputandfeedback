@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="main_menu">
+        <item>Überlagerung</item>
+        <item>Übergang</item>
+        <item>Manipulation</item>
+        <item>Threading</item>
+        <item>Menüs</item>
+    </string-array>
+    <string-array name="main_menu_activities">
+        <item>ViewOverlay</item>
+        <item>ViewTransition</item>
+        <item>ViewManipulation</item>
+        <item>ViewThreading</item>
+        <item>ViewMenus</item>
+    </string-array>
+    <string-array name="overlay_menu">
+        <item>Toast</item>
+        <item>Dialog</item>
+        <item>Synchronisierter Dialog</item>
+    </string-array>
+    <string-array name="overlay_menu_methods">
+        <item>runToast</item>
+        <item>runDialog</item>
+        <item>runSyncDialog</item>
+    </string-array>
+    <string-array name="threading_menu">
+        <item>Fehler</item>
+        <item>UI Thread</item>
+        <item>Handler</item>
+    </string-array>
+    <string-array name="threading_menu_methods">
+        <item>runThreadingError</item>
+        <item>runUIThread</item>
+        <item>runHandler</item>
+    </string-array>
+    <color name="black">#000000</color>
+    <color name="blue">#0000ff</color>
+    <color name="green">#00ff00</color>
+    <color name="grey">#B8B8B8</color>
+    <color name="red">#ff0000</color>
+    <color name="transparentwhite">#80ffffff</color>
+    <color name="white">#eeffffff</color>
+    <string name="app_name">InputAndFeedback</string>
+    <string name="hello">Hello Android!</string>
+    <string name="manipulation_name">Manipulation</string>
+    <string name="menus_name">Menüs</string>
+    <string name="overlay_name">Überlagerung</string>
+    <string name="threading_name">Threading</string>
+    <string name="transition_name">Übergang</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

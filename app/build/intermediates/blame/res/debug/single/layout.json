@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.inputandfeedback/app/build/intermediates/res/merged/debug/layout/loadingitemview.xml",
+        "source": "/Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.inputandfeedback/app/src/main/res/layout/loadingitemview.xml"
+    },
+    {
+        "merged": "/Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.inputandfeedback/app/build/intermediates/res/merged/debug/layout/threadingview.xml",
+        "source": "/Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.inputandfeedback/app/src/main/res/layout/threadingview.xml"
+    },
+    {
+        "merged": "/Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.inputandfeedback/app/build/intermediates/res/merged/debug/layout/formview.xml",
+        "source": "/Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.inputandfeedback/app/src/main/res/layout/formview.xml"
+    },
+    {
+        "merged": "/Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.inputandfeedback/app/build/intermediates/res/merged/debug/layout/listview.xml",
+        "source": "/Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.inputandfeedback/app/src/main/res/layout/listview.xml"
+    },
+    {
+        "merged": "/Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.inputandfeedback/app/build/intermediates/res/merged/debug/layout/dynamic_spinner.xml",
+        "source": "/Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.inputandfeedback/app/src/main/res/layout/dynamic_spinner.xml"
+    },
+    {
+        "merged": "/Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.inputandfeedback/app/build/intermediates/res/merged/debug/layout/menusview.xml",
+        "source": "/Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.inputandfeedback/app/src/main/res/layout/menusview.xml"
+    },
+    {
+        "merged": "/Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.inputandfeedback/app/build/intermediates/res/merged/debug/layout/formview_static.xml",
+        "source": "/Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.inputandfeedback/app/src/main/res/layout/formview_static.xml"
+    },
+    {
+        "merged": "/Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.inputandfeedback/app/build/intermediates/res/merged/debug/layout/transtargetview.xml",
+        "source": "/Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.inputandfeedback/app/src/main/res/layout/transtargetview.xml"
+    }
+]

@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/ctxmenu_optionA"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="Option A"/>
+
+    <item
+        android:id="@+id/ctxmenu_optionB"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Option B"/>
+    
+</menu>

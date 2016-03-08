@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello Android!</string>
+    <string name="app_name">InputAndFeedback</string>
+
+    <string name="overlay_name">Überlagerung</string>
+    <string name="manipulation_name">Manipulation</string>
+    <string name="threading_name">Threading</string>
+    <string name="transition_name">Übergang</string>
+    <string name="menus_name">Menüs</string>
+    
+    <!-- the main menu items -->
+    <string-array name="main_menu">
+        <item>Überlagerung</item>
+        <item>Übergang</item>
+        <item>Manipulation</item>
+        <item>Threading</item>
+        <item>Menüs</item>
+    </string-array>
+
+    <!-- the activities that will be called if a main menu item is selected -->
+    <string-array name="main_menu_activities">
+        <item>ViewOverlay</item>
+        <item>ViewTransition</item>
+        <item>ViewManipulation</item>
+        <item>ViewThreading</item>
+        <item>ViewMenus</item>
+    </string-array>
+
+    <!-- the items for demonstrating overlay of views with toasts and dialogs -->
+    <string-array name="overlay_menu">
+        <item>Toast</item>
+        <item>Dialog</item>
+        <item>Synchronisierter Dialog</item>
+    </string-array>
+
+    <!-- the methods that will be called on selection of an overlay menu item -->
+    <string-array name="overlay_menu_methods">
+        <item>runToast</item>
+        <item>runDialog</item>
+        <item>runSyncDialog</item>
+    </string-array>
+
+    <!-- the options for demonstrating usage of the ui thread -->
+    <string-array name="threading_menu">
+        <item>Fehler</item>
+        <item>UI Thread</item>
+        <item>Handler</item>
+    </string-array>
+
+    <!-- the methods that will be called when a threading option is selected -->
+    <string-array name="threading_menu_methods">
+        <item>runThreadingError</item>
+        <item>runUIThread</item>
+        <item>runHandler</item>
+    </string-array>
+
+</resources>

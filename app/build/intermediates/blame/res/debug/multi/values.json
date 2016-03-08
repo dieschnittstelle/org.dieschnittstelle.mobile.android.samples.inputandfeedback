@@ -1,0 +1,441 @@
+[
+    {
+        "outputFile": "/Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.inputandfeedback/app/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 8,
+                    "endColumn": 19,
+                    "endOffset": 262
+                },
+                "from": {
+                    "file": "/Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.inputandfeedback/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 475,
+                        "endLine": 19,
+                        "endColumn": 19,
+                        "endOffset": 688
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 267,
+                    "endLine": 15,
+                    "endColumn": 19,
+                    "endOffset": 502
+                },
+                "from": {
+                    "file": "/Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.inputandfeedback/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 777,
+                        "endLine": 28,
+                        "endColumn": 19,
+                        "endOffset": 1018
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 507,
+                    "endLine": 20,
+                    "endColumn": 19,
+                    "endOffset": 661
+                },
+                "from": {
+                    "file": "/Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.inputandfeedback/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1109,
+                        "endLine": 35,
+                        "endColumn": 19,
+                        "endOffset": 1267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 666,
+                    "endLine": 25,
+                    "endColumn": 19,
+                    "endOffset": 824
+                },
+                "from": {
+                    "file": "/Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.inputandfeedback/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 1358,
+                        "endLine": 42,
+                        "endColumn": 19,
+                        "endOffset": 1520
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 829,
+                    "endLine": 30,
+                    "endColumn": 19,
+                    "endOffset": 973
+                },
+                "from": {
+                    "file": "/Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.inputandfeedback/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 1595,
+                        "endLine": 49,
+                        "endColumn": 19,
+                        "endOffset": 1743
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 978,
+                    "endLine": 35,
+                    "endColumn": 19,
+                    "endOffset": 1146
+                },
+                "from": {
+                    "file": "/Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.inputandfeedback/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 1833,
+                        "endLine": 56,
+                        "endColumn": 19,
+                        "endOffset": 2005
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1151,
+                    "endColumn": 39,
+                    "endOffset": 1186
+                },
+                "from": {
+                    "file": "/Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.inputandfeedback/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 236,
+                        "endColumn": 35,
+                        "endOffset": 271
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1191,
+                    "endColumn": 38,
+                    "endOffset": 1225
+                },
+                "from": {
+                    "file": "/Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.inputandfeedback/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 125,
+                        "endColumn": 34,
+                        "endOffset": 159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1230,
+                    "endColumn": 39,
+                    "endOffset": 1265
+                },
+                "from": {
+                    "file": "/Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.inputandfeedback/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 0,
+                        "startOffset": 88,
+                        "endColumn": 35,
+                        "endOffset": 123
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 1270,
+                    "endColumn": 38,
+                    "endOffset": 1304
+                },
+                "from": {
+                    "file": "/Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.inputandfeedback/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 200,
+                        "endColumn": 34,
+                        "endOffset": 234
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 1309,
+                    "endColumn": 37,
+                    "endOffset": 1342
+                },
+                "from": {
+                    "file": "/Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.inputandfeedback/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 0,
+                        "startOffset": 53,
+                        "endColumn": 33,
+                        "endOffset": 86
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 1347,
+                    "endColumn": 52,
+                    "endOffset": 1395
+                },
+                "from": {
+                    "file": "/Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.inputandfeedback/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 273,
+                        "endColumn": 48,
+                        "endOffset": 321
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 1400,
+                    "endColumn": 41,
+                    "endOffset": 1437
+                },
+                "from": {
+                    "file": "/Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.inputandfeedback/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 161,
+                        "endColumn": 37,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 1442,
+                    "endColumn": 53,
+                    "endOffset": 1491
+                },
+                "from": {
+                    "file": "/Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.inputandfeedback/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 109,
+                        "endColumn": 53,
+                        "endOffset": 158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 1496,
+                    "endColumn": 48,
+                    "endOffset": 1540
+                },
+                "from": {
+                    "file": "/Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.inputandfeedback/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 48,
+                        "endOffset": 103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 1545,
+                    "endColumn": 58,
+                    "endOffset": 1599
+                },
+                "from": {
+                    "file": "/Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.inputandfeedback/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 221,
+                        "endColumn": 58,
+                        "endOffset": 275
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 1604,
+                    "endColumn": 44,
+                    "endOffset": 1644
+                },
+                "from": {
+                    "file": "/Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.inputandfeedback/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 389,
+                        "endColumn": 44,
+                        "endOffset": 429
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 1649,
+                    "endColumn": 53,
+                    "endOffset": 1698
+                },
+                "from": {
+                    "file": "/Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.inputandfeedback/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 166,
+                        "endColumn": 53,
+                        "endOffset": 215
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 1703,
+                    "endColumn": 52,
+                    "endOffset": 1751
+                },
+                "from": {
+                    "file": "/Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.inputandfeedback/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 281,
+                        "endColumn": 52,
+                        "endOffset": 329
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 1756,
+                    "endColumn": 52,
+                    "endOffset": 1804
+                },
+                "from": {
+                    "file": "/Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.inputandfeedback/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 335,
+                        "endColumn": 52,
+                        "endOffset": 383
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 1809,
+                    "endLine": 56,
+                    "endColumn": 12,
+                    "endOffset": 2095
+                },
+                "from": {
+                    "file": "/Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.inputandfeedback/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 2100,
+                    "endLine": 59,
+                    "endColumn": 12,
+                    "endOffset": 2255
+                },
+                "from": {
+                    "file": "/Users/master/Documents/jkwrite/bht/runtime/workspaces/madbrainsworkspace/org.dieschnittstelle.mobile.android.samples.inputandfeedback/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    }
+]
