@@ -391,6 +391,15 @@ public class ViewManipulationActivity extends Activity {
 
 			// and we track that an invalid input has been entered
 			invalidTextInput1 = true;
+		}
+		else if (text != null && text.trim().length() < 2) {
+			Log.i(logger, "text input is invalid. At least two digits must be input");
+
+			// textView.setTextColor(R.color.green);
+			textView.setText("Es müssen mindestens 2 Ziffern einegegeben werden");
+
+			// and we track that an invalid input has been entered
+			invalidTextInput1 = true;
 		} else {
 			// if we have a valid input, the ok button is set to enabled
 			Log.i(logger, "text input is valid");
